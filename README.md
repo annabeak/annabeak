@@ -2,7 +2,7 @@
  
 Hi, I'm Anna! I hope you like my profile.
 
-📲 The strong are not ashamed to be helped.  
+📲 Great ideas come from observing the small details.
 
 [![annabeak GitHub stats](https://github-readme-stats.vercel.app/api?username=annabeak)](https://github.com/annabeak)
 
