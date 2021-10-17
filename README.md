@@ -6,7 +6,8 @@ Hi, I'm Anna! I hope you like my profile.
 
 [![annabeak GitHub stats](https://github-readme-stats.vercel.app/api?username=annabeak)](https://github.com/annabeak)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabeak)](https://github.com/annabeak)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabeak&layout=compact)](https://github.com/annabeak)
+
 
 ### Contact 
 
